@@ -1,2 +1,4 @@
-# trilomiaV2
-This is officially the second version of Trilomia.
+# trilomiaV3
+This is the last official version of Trilomia.
+
+credits to @Aragon
